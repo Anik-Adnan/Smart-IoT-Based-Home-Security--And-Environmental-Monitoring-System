@@ -271,10 +271,16 @@ Click **▶ Play** in Wokwi to compile and launch the simulation. To observe eac
 ├── diagram.json                    # Wokwi circuit definition
 ├── libraries.txt                   # Wokwi library manifest
 ├── Screenshots/
-│   ├── Blynk-Console-screenshot.png
-│   ├── Blynk-Mobile-screenshot.png 
+│   ├── Blynk-Console-Dashboard.png
+│   ├── Blynk-Console-Datastream.png
+│   ├── Blynk-Console-Events.png
+│   ├── Blynk-Console-Home.png
+│   ├── Blynk-IoT-Control-Widgets.jpeg
+│   ├── Blynk-Mobile-Dashboard-Successful-Operation-through-Connected-Devices.png
+│   ├── OLED-Display-Monitor-Output.png
+│   ├── Wowki-Circuit-Diagram.png
 │   ├── Wowki-Diagram-with-Output.png
-│   └── Wowki-Wiring-Diagram.png
+│   └── Wowki-Profile.png
 ├── report/
 │   └── Project_Report.pdf
 └── README.md
