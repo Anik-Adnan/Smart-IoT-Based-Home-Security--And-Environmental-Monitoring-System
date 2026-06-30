@@ -193,10 +193,6 @@ The system successfully demonstrates autonomous threshold-based decision-making 
 - Authentication for the door-lock override is currently scoped to the Blynk account level; a future iteration could add PIN-based confirmation within the app.
 - Edge-based anomaly detection (e.g., distinguishing a pet from an intruder via sensor fusion) is identified as a direction for future extension.
 
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
-
 ## Acknowledgements
 
 Developed as part of the *IoT and Robotics* coursework, using the Wokwi simulation platform and Blynk IoT Cloud.
