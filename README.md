@@ -270,11 +270,11 @@ Click **▶ Play** in Wokwi to compile and launch the simulation. To observe eac
 ├── Smart_IoT_Security_System.ino   # Main ESP32 firmware
 ├── diagram.json                    # Wokwi circuit definition
 ├── libraries.txt                   # Wokwi library manifest
-├── docs/
-│   ├── wiring-diagram.png
-│   ├── blynk-console-screenshot.png
-│   ├── blynk-mobile-screenshot.png
-│   └── system-architecture.png
+├── Screenshots/
+│   ├── Blynk-Console-screenshot.png
+│   ├── Blynk-Mobile-screenshot.png 
+│   ├── Wowki-Diagram-with-Output.png
+│   └── Wowki-Wiring-Diagram.png
 ├── report/
 │   └── Project_Report.pdf
 └── README.md
