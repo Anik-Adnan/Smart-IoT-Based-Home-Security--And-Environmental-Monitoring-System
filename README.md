@@ -23,8 +23,7 @@
 11. [Testing and Validation](#testing-and-validation)
 12. [Results](#results)
 13. [Limitations and Future Work](#limitations-and-future-work)
-14. [License](#license)
-15. [Acknowledgements](#acknowledgements)
+14. [Acknowledgements](#acknowledgements)
 
 ---
 
